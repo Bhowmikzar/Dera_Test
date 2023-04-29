@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "QWE",
+    "author": "Geralt Rivia",
+    "publication_date": "12/03/1998",
+    "genre": "Art",
+    "details": "Quos, non, esse eligendi ab accusantium voluptatem. Accusamus perspiciatis asperiores labore esse ab accusantium ea modi ut."
+  },
+  {
+    "id": 2,
+
+    "title": "ZXC",
+    "author": "Ygritte Freefolk",
+    "publication_date": "02/04/1978",
+    "genre": "Music",
+    "details": "Accusamus perspiciatis asperiores labore esse ab accusantium ea modi utQuos, non, esse eligendi ab accusantium voluptatem. "
+  },
+  {
+    "id": 3,
+
+    "title": "GRE",
+    "author": "Bilbo Baggins",
+    "publication_date": "05/12/2000",
+    "genre": "Fiction",
+    "details": "Quos, non, esse eligendi ab accusantium voluptatem. Accusamus perspiciatis asperiores labore esse ab accusantium ea modi ut."
+  },
+  {
+    "id": 4,
+
+    "title": "NIJHNO",
+    "author": "Rubeus Hagrid",
+    "publication_date": "21/11/2012",
+    "genre": "Music",
+    "details": "Accusamus perspiciatis asperiores labore esse ab accusantium ea modi ut.Quos, non, esse eligendi ab accusantium voluptatem. "
+  },
+  {
+    "id": 5,
+
+    "title": "HVURY",
+    "author": "Todoroki Shoto",
+    "publication_date": "14/10/2020",
+    "genre": "Fiction",
+    "details": "Quos, non, esse eligendi ab accusantium voluptatem. Accusamus perspiciatis asperiores labore esse ab accusantium ea modi ut."
+  }
+]
