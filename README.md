@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm intsall` or `npm install --force`
+First do any one of this and then do the following .
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
